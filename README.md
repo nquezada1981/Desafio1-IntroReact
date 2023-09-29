@@ -1,6 +1,11 @@
 # Desafío 1 - Adopta un Perrito
 
-Para iniciar el código, ejecuta
-npm install
-npm run dev
+<p>Para iniciar el código, ejecuta</p>
 
+<ol>
+<li>
+npm install
+</li>
+<li>
+npm run dev</li>
+</ol>
